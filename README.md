@@ -1,0 +1,2 @@
+# skynet
+powerTAC trading agent
